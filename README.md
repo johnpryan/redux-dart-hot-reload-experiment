@@ -1,6 +1,8 @@
 Example demonstrating hot reloading on the web using package:build and
 redux.dart
 
+![hot-reload-gif](https://media.giphy.com/media/KyGlZei1Qe6oqPydm4/giphy.gif)
+
 ## Demo
 
 To see this for yourself, follow these steps:
