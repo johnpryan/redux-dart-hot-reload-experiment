@@ -2,7 +2,7 @@ enum Actions { increment, decrement }
 
 /// Update these values while running with the --hot-reload flag to hot-reload
 /// the functionality of the app without changing the state.
-const increment = 5;
+const increment = 1;
 const decrement = 1;
 
 int counterReducer(int state, dynamic action) {
